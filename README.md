@@ -1,5 +1,5 @@
 # Profile
-| <img width=150 src="https://avatars.githubusercontent.com/u/129291560?v=4" /> | <h1>Rac / Rac75116</h1> <h3>I am a high school student in Nara, Japan.</h3>  |
+| <img width=150 src="https://avatars.githubusercontent.com/u/129291560?v=4" /> | <h1>Rac / Rac75116</h1> <h3>I am a high school student in Japan.</h3>  |
 |-----|----------------|
 
 # Likes & Skills
